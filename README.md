@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm BINDU GUGULOTHU</h1>
-<h3 align="center"> Hi! I'm Gugulothu Bindu, a passionate and curious developer with a strong interest in full-stack web development, machine learning (ML), deep learning (DL), open-source contributions. I enjoy building practical projects that solve real-world problems and love exploring new tools and technologies to expand my skills.</h3>
+
+## About Me
+Hi! I'm Gugulothu Bindu, a passionate and curious developer with a strong interest in full-stack web development, Machine Learning, Deep Learning, open-source contributions. I enjoy building practical projects that solve real-world problems and love exploring new tools and technologies to expand my skills.</h3>
 
 <h3>I’ve actively contributed to open-source programs like GirlScript Summer of Code Extended 2024, and earned certifications such as Postman API Fundamentals Student Expert. My learning journey spans a variety of domains, including Ruby development, Node.js, React, data science, and cybersecurity.</h3>
 
@@ -9,8 +11,10 @@
 - 🔭 I’m currently working on **Web application development**
 
 - 👯 I’m looking to collaborate on **Real-time project's**
-- 
+  
 - 💬 Ask me about Machine Learning, Deep Learing.
+  
+- 😄 Pronouns: She/Her 
 
 - 📫 How to reach me **22wh1a1273@bvrithyderabad.edu.in**
 
