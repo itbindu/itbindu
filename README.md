@@ -36,4 +36,4 @@ I’ve actively contributed to open-source programs like GirlScript Summer of Co
 </a></div>
 
 ## Hacktoberfest'24 Badges
-[![An image of @akshithachiluka's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akshithachiluka)](https://holopin.io/@akshithachiluka)
+[![An image of @itbindu Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/@itbindu)](https://www.holopin.io/@itbindu)
