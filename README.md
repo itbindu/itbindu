@@ -37,3 +37,51 @@ I’ve actively contributed to open-source programs like GirlScript Summer of Co
 
 ## Hacktoberfest'24 Badges
 [![An image of @itbindu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itbindu)](https://holopin.io/@itbindu)
+
+## 🔧 Technical Skills
+
+**Languages:**  
+C, Java, Python
+
+**Web Development:**  
+HTML, CSS, JavaScript, React, Node.js
+
+**Databases:**  
+MySQL, MongoDB
+
+**Cloud Platforms & Tools:**  
+Selenium, Postman, Microsoft Azure, GitHub
+
+---
+
+## 📊 GitHub Stats
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical" alt="Profile Summary">
+</td>
+<td>
+  <img width="300em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+</td>
+<td>
+  <img width="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Streak Stats"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 🎉 Badges (e.g. Hacktoberfest)
+
+[![An image of @yourusername's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yourusername)](https://holopin.io/@yourusername)
+
+---
+
+## 🤝 Let's Connect
+
+- 📫 Email: your.email@example.com  
+- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 💻 Portfolio: [Your Portfolio](https://yourportfolio.com)
+
+---
