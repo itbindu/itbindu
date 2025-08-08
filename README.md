@@ -75,8 +75,7 @@ Selenium, Postman, Microsoft Azure, GitHub
 
 ## 🤝 Let's Connect
 
-- 📫 Email: your.email@example.com  
-- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 💻 Portfolio: [Your Portfolio](https://yourportfolio.com)
+- 📫 Email: 22wh1a1273@bvrithyderabad.edu.in  
+- 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/bindu-gugulothu/)
 
 ---
