@@ -15,24 +15,6 @@ I’ve actively contributed to open-source programs like GirlScript Summer of Co
 
 - 📫 How to reach me **22wh1a1273@bvrithyderabad.edu.in**
 
-
-
-<h3 align="left">GSSoC'24 Extd Badges 🪶:</h3>
-
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="105px" height="105px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-</a></div>
-
-## Hacktoberfest'24 Badges
-[![An image of @itbindu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itbindu)](https://holopin.io/@itbindu)
-
 ## 🔧 Technical Skills
 
 **Languages:**  
@@ -49,29 +31,21 @@ Selenium, Postman, Microsoft Azure, GitHub
 
 ---
 
-## 📊 GitHub Stats
+<h3 align="left">GSSoC'24 Extd Badges 🪶:</h3>
 
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="300em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_GITHUB_USERNAME&theme=radical" alt="Profile Summary">
-</td>
-<td>
-  <img width="300em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="300em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="Streak Stats"/>
-</td>
-</tr>
-</table>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="105px" height="105px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+</a></div>
 
----
-
-## 🎉 Badges (e.g. Hacktoberfest)
-
-[![An image of @yourusername's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yourusername)](https://holopin.io/@yourusername)
-
----
+## Hacktoberfest'24 Badges
+[![An image of @itbindu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itbindu)](https://holopin.io/@itbindu)
 
 ## 🤝 Let's Connect
 
