@@ -45,7 +45,7 @@ Selenium, Postman, Microsoft Azure, GitHub
 </a></div>
 
 ## Hacktoberfest Badges
-[![An image of @grandhiharshitha's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/grandhiharshitha)](https://holopin.io/@grandhiharshitha)
+[![An image of @itbindu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itbindu)](https://holopin.io/@itbindu)
 
 ## 🤝 Let's Connect
 
