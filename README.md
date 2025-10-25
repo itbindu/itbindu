@@ -47,6 +47,7 @@ Selenium, Postman, Microsoft Azure, GitHub
 ## Hacktoberfest Badges
 [![An image of @itbindu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itbindu)](https://holopin.io/@itbindu)
 
+
 ## 🤝 Let's Connect
 
 - 📫 Email: 22wh1a1273@bvrithyderabad.edu.in  
