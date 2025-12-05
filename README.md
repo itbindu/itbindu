@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BINDU GUGULOTHU</h1>
+<h1 align="center">Hi 👋, I'm GUGULOTHU BINDU </h1>
 
 ## About Me
 Hi! I'm Gugulothu Bindu, a passionate and curious developer with a strong interest in full-stack web development, Machine Learning, Deep Learning, open-source contributions. I enjoy building practical projects that solve real-world problems and love exploring new tools and technologies to expand my skills.
