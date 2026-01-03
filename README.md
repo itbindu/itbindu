@@ -21,7 +21,7 @@ I’ve actively contributed to open-source programs like GirlScript Summer of Co
 C, Java, Python
 
 **Web Development:**  
-HTML, CSS, JavaScript, React, Node.js
+HTML, CSS, React, Node.js
 
 **Databases:**  
 MySQL, MongoDB
