@@ -50,7 +50,7 @@ Selenium, Postman, Microsoft Azure, GitHub
 
 ## 🤝 Let's Connect
 
-- 📫 Email: 22wh1a1273@bvrithyderabad.edu.in  
+- 📫 Email: bindugugulothu32@gmail.com 
 - 🌐 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/bindu-gugulothu/)
 
 ---
